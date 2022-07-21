@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="org.altbeacon.beacon.transmitter"
+    package="org.altbeacon.samkenxstream.turnkey-triumph-326606_beacon.transmitter"
     android:versionCode="1"
     android:versionName="1.0" >
     
